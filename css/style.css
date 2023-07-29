@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Poppins&family=Source+Sans+Pro:wght@700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif !important;
+  color: #343434 !important;
+}
+
+footer {
+  background-color: black;
+  height: 10vh !important;
+}
+
+#Contact {
+  background-color: white;
+}
+
+/* heder*/
+header {
+  background-image: url(../img/img/clear-air-fly-fantastic-travel.jpg);
+  background-size: 100% 100%;
+  background-position: center center;
+  height: 90vh !important;
+}
+
+.info-box {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#container-today h1 {
+  font-size: 70px !important;
+}
+
+#container-today h3 {
+  color: blanchedalmond;
+}
